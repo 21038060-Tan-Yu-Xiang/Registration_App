@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Registration App</string>
+
+    <!--Session 2, Exercise 2-->
+    <string name="lblFormTitle">Registration Form</string>
+    <string name="lblFormDesc">Welcome to Adventure Learning Club!</string>
+    <string name="lblFullName">Full Name</string>
+    <string name="lblGenderMale">Male</string>
+    <string name="lblGenderFemale">Female</string>
+    <string name="lblStudentID">Student ID</string>
+    <string name="lblSchool">School</string>
+    <string name="lblEmail">E-mail</string>
+    <string name="lblPhone">Phone</string>
+    <string name="btnRegister">Register</string>
+</resources>
