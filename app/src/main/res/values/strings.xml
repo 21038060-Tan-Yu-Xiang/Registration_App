@@ -4,7 +4,9 @@
     <!--Session 2, Exercise 2-->
     <string name="lblFormTitle">Registration Form</string>
     <string name="lblFormDesc">Welcome to Adventure Learning Club!</string>
-    <string name="lblFullName">Full Name</string>
+    <string name="lblFirstName">First Name</string>
+    <string name="lblLastName">Last Name</string>
+    <string name="lblGender">Gender</string>
     <string name="lblGenderMale">Male</string>
     <string name="lblGenderFemale">Female</string>
     <string name="lblStudentID">Student ID</string>
